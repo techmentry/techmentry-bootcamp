@@ -1,5 +1,22 @@
 # Visual Studio Code Setup
 
+## Table of contents
+
+- [Visual Studio Code Setup](#visual-studio-code-setup)
+  - [Table of contents](#table-of-contents)
+  - [Overview and Introduction](#overview-and-introduction)
+  - [What is a source code editor?](#what-is-a-source-code-editor)
+  - [What is this guide?](#what-is-this-guide)
+  - [What this guide is not?](#what-this-guide-is-not)
+  - [Getting VS Code](#getting-vs-code)
+    - [Windows](#windows)
+    - [Mac (OSX)](#mac-osx)
+  - [Checking VS Code](#checking-vs-code)
+  - [Learn about VS code](#learn-about-vs-code)
+  - [Extensions](#extensions)
+
+## Overview and Introduction
+
 Visual Studio Code (a.k.a VS Code) is a free source code editor by Microsoft, which is designed to be customizable and lightweight for your development project needs. It does so by installing a bare bones source code editor with language features right out of the box, and providing a rich market place for you to have a powerful programming experience.
 
 >Note: Please proceed with this ONLY if you have installed Python on your system. If you have not done so yet, please follow our [guide](python-setup.md) on how to install python on your machine.
@@ -16,20 +33,6 @@ This guide provides you with a quick way to setup visual studio code and get you
 
 This guide is by no means an exhaustive resource on training you how to use the VS Code editor. However, it does list some links to help you get started.
 I would _highly_ recommend looking at the first 4 items in the [learning section](#learn-about-vs-code) before our session.
-
-## Table of contents
-
-- [Visual Studio Code Setup](#visual-studio-code-setup)
-  - [What is a source code editor?](#what-is-a-source-code-editor)
-  - [What is this guide?](#what-is-this-guide)
-  - [What this guide is not?](#what-this-guide-is-not)
-  - [Table of contents](#table-of-contents)
-  - [Getting VS Code](#getting-vs-code)
-    - [Windows](#windows)
-    - [Mac (OSX)](#mac-osx)
-  - [Checking VS Code](#checking-vs-code)
-  - [Learn about VS code](#learn-about-vs-code)
-  - [Extensions](#extensions)
 
 ## Getting VS Code
 

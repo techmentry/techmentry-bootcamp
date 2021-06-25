@@ -1,5 +1,17 @@
 # Development environment setup for Python based modules
 
+## Table of contents
+
+- [Development environment setup for Python based modules](#development-environment-setup-for-python-based-modules)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Setting up python](#setting-up-python)
+    - [Windows and OSX (macOS)](#windows-and-osx-macos)
+    - [Linux/ Unix derivative](#linux-unix-derivative)
+  - [Post installation](#post-installation)
+  - [Updating `pip`](#updating-pip)
+  - [Notes](#notes)
+
 ## Overview
 
 This document will highlight how to setup your local computer and get started with python based development. This setup will invite you to follow a few steps, and it is recommended that you follow them exactly. However, it is not mandated that you use the same set of tools as this document describes. This document is geared towards people starting out with Python programming or python sub-modules in general. If you already are fluent with your own setup, please continue using that and adjust parameters and settings based on your development tools.
