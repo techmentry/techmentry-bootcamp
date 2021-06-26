@@ -4,6 +4,12 @@ Hello there student/ teacher/ parent or anyone reading this text. We at Techment
 however, we do understand that it can be daunting and comes with a steep learning curve at the beginning. Having gone through that ourselves, we want to make this process easier and smoother for you. Definitely not spoon feed you,
 but point you to resources that we have found to be useful.
 
+> Note: The objective of this bootcamp and content here is definitely not to teach you Python. We cannot and will not claim to teach you python in a measly 1 hour a day, for 3 days. Instead, we want to give you a feel
+> for how Python can be used, and what for by taking a couple of real life examples. By no means are these demonstration examples exhaustive. Python is used in a variety of domains - research in popular fundamental science spaces likes biology (stem cell simulation, genetic algorithms, understanding diseases, simulating and calculating artificial life etc), physics (universe simulations, optics, simulations for our own planet) and needless to say mathematics for almost everything.
+> It is also extremely pervasive in finance, banking, and in general an extremely handy tools while working with large data sets and repetitive operations.
+> Data science uses Python heavily now a days to general reports, create stats and build some AI models now a days.
+> However, we have tried to provide you with a short and useful intro to Python syntax in our day 1 collection of Python samples (please check the src folder above).
+
 ## What does this repository have?
 
 This repository will have all the guides, source code, and setup manuals that you will need for your 3 day bootcamp. We well understand that 3 hours are not enough to cover a ginormous and mature language like Python, we want
