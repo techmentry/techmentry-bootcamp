@@ -7,8 +7,9 @@ but point you to resources that we have found to be useful.
 > Note: The objective of this bootcamp and content here is definitely not to teach you Python. We cannot and will not claim to teach you python in a measly 1 hour a day, for 3 days. Instead, we want to give you a feel
 > for how Python can be used, and what for by taking a couple of real life examples. By no means are these demonstration examples exhaustive. Python is used in a variety of domains - research in popular fundamental science spaces likes biology (stem cell simulation, genetic algorithms, understanding diseases, simulating and calculating artificial life etc), physics (universe simulations, optics, simulations for our own planet) and needless to say mathematics for almost everything.
 > It is also extremely pervasive in finance, banking, and in general an extremely handy tools while working with large data sets and repetitive operations.
-> Data science uses Python heavily now a days to general reports, create stats and build some AI models now a days.
-> However, we have tried to provide you with a short and useful intro to Python syntax in our day 1 collection of Python samples (please check the src folder above).
+> Data science uses Python heavily now a days to generate reports, analyse data and create stats and build some AI models to take certain actions on these. Platforms like Raspberry PI, a micro-controller based embedded platform,
+> allows you to program some cool IoT and robotics applications using Python and libraries like OpenCV for computer vision.
+> __However__, we have tried to provide you with a short and useful intro to Python syntax in our day 1 collection of Python samples (please check the src folder above). Hope this interests you as much as it does us.
 
 ## What does this repository have?
 
