@@ -16,7 +16,7 @@ but point you to resources that we have found to be useful.
 This repository will have all the guides, source code, and setup manuals that you will need for your 3 day bootcamp. We well understand that 3 hours are not enough to cover a ginormous and mature language like Python, we want
 you to have some resources to take back home, and work with.
 
-## Sitemap
+## Site map
 
 Here is a basic layout of what you can find, and where you can find it.
 
