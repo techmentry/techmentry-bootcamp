@@ -15,5 +15,5 @@ One you are done with this, please take a look at the [practice sheet](python-pr
 
 ## Day 2
 
-Please find the day 2 source code illustrating how a dodging game could look in python using pygame, here.
+Please find the day 2 source code illustrating how a dodging game could look in python using pygame, [here](python-sample-2-1.py).
 I would strongly suggest reading up content on Day 1 and practicing some code. Otherwise a lot of syntax will feel very strange and alien to you.
