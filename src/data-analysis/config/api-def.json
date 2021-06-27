@@ -1,0 +1,9 @@
+{
+    "root_url": "https://api.covid19api.dev",
+    "username": "public_user",
+    "password": "public_pass",
+    "api_defs": {
+        "gen_token": "/token",
+        "global_daily_reports": "/{mon}{yyyy}"
+    }
+}

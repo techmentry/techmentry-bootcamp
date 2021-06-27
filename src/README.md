@@ -17,3 +17,12 @@ One you are done with this, please take a look at the [practice sheet](python-pr
 
 Please find the day 2 source code illustrating how a dodging game could look in python using pygame, [here](python-sample-2-1.py).
 I would strongly suggest reading up content on Day 1 and practicing some code. Otherwise a lot of syntax will feel very strange and alien to you.
+
+## Day 3
+
+Day 3 deals with another real life use of Python, and currently an extremely popular one - data analysis and visualization.
+We have tried to present an example, where we connect to a public remote server, fetch covid data for a month for cities across the globe.
+After this, we explore multiple things - writing this data in a table like format to excel, or manipulating this data in python itself by filtering based on certain values. We then present an example to generate some graphs to show how you could do some form of analysis using python
+as a tool.
+
+You can find all of the code and some data files [here](./data-analysis/).
