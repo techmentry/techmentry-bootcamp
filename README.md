@@ -31,6 +31,7 @@ I would recommend this order for the best results before our session.
 1. Install Python. Please check this [guide](setup/python-setup.md) to find out how.
 2. Install Visual Studio Code. Please check this [guide](setup/vscode-setup.md) to find out how.
 3. Read up on command line basics. Checkout [this guide](guides/command-line-interface.md) we have curated for you.
+4. Start reading up the code that we have in place for you. You can find all of the code divided day wise [here](./src/).
 
 It is okay if you don't get all of this at once. We will try to tackle some of this during our sessions.
 
