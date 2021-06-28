@@ -53,4 +53,4 @@ or the following if the above one fails.
 python -m pip install pandas matplotlib numpy requests xlsxwriter xlrd
 ```
 
-To run this, please run the [main.py](./data-anaysis/main.py) in Python as `python3 main.py`. If this fails, try `python main.py`.
+To run this, please run the [main.py](./data-analysis/main.py) in Python as `python3 main.py`. If this fails, try `python main.py`.
