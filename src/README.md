@@ -10,20 +10,20 @@ Please open source code files and read through them. Source code is added, and s
 
 Please look at some source code checked in for Day 1 related items
 
-- [Basics](./python-sample-0.py)
-- [Input and output](./python-sample-1-1.py)
-- [Conditions, loops and functions](./python-sample-1-2.py)
-- [Sample programs - physics and math quantities](./python-sample-1-3.py)
+- [Basics](./Day%201/python-sample-0.py)
+- [Input and output](./Day%201/python-sample-1-1.py)
+- [Conditions, loops and functions](./Day%201/python-sample-1-2.py)
+- [Sample programs - physics and math quantities](./Day%201/python-sample-1-3.py)
 
 One you are done with this, please take a look at the [practice sheet](python-practice-1-1.py).
 
 ## Day 2
 
-Please find the day 2 source code illustrating how a dodging game could look in python using pygame, [here](python-sample-2-1.py).
+Please find the day 2 source code illustrating how a dodging game could look in python using pygame, [here](./Day%202/python-sample-2-1.py).
 I would strongly suggest reading up content on Day 1 and practicing some code. Otherwise a lot of syntax will feel very strange and alien to you.
 Please follow the instructions in the code file. After you have installed `pygame`, you can then run the module as
 
-`python3 python-sample-2-1.py`. If this fails, run `python python-sample-2-1.py`
+`python3 ./Day%202/python-sample-2-1.py`. If this fails, run `python ./Day%202/python-sample-2-1.py`
 
 ## Day 3
 
@@ -32,8 +32,9 @@ We have tried to present an example, where we connect to a public remote server,
 After this, we explore multiple things - writing this data in a table like format to excel, or manipulating this data in python itself by filtering based on certain values. We then present an example to generate some graphs to show how you could do some form of analysis using python
 as a tool.
 
-You can find all of the code and some data files [here](./data-analysis/).
+You can find all of the code and some data files [here](./Day%203/data-analysis/).
 You need to install some packages for it to work. Namely
+
 1. `matplotlib`
 2. `xlsxwriter`
 3. `requests`
@@ -53,4 +54,4 @@ or the following if the above one fails.
 python -m pip install pandas matplotlib numpy requests xlsxwriter xlrd
 ```
 
-To run this, please run the [main.py](./data-analysis/main.py) in Python as `python3 main.py`. If this fails, try `python main.py`.
+To run this, please run the [main.py](./Day%203/data-analysis/main.py) in Python as `python3 main.py`. If this fails, try `python main.py`.

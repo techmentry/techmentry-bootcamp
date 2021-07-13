@@ -20,9 +20,9 @@ you to have some resources to take back home, and work with.
 
 Here is a basic layout of what you can find, and where you can find it.
 
-* Please check out the [setup](/setup) page. This should hold all the software installation guides related to our bootcamp.
-* Please check out the [guides](/guides) page. This should hold all the knowledge guides related to our bootcamp and beyond.
-* Please check out the [src](/src) page. This should hold all the source code and programs we will write during our bootcamp. This way, you have something to refer back to after our bootcamp.
+* Please check out the [setup](./setup) page. This should hold all the software installation guides related to our bootcamp.
+* Please check out the [guides](./guides) page. This should hold all the knowledge guides related to our bootcamp and beyond.
+* Please check out the [src](./src) page. This should hold all the source code and programs we will write during our bootcamp. This way, you have something to refer back to after our bootcamp.
 
 ## Where do I start?
 
