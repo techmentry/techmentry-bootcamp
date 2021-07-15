@@ -23,6 +23,10 @@ Setting up python can be different based on the operating system that you use. P
 ### Windows and OSX (macOS)
 
 Please visit [the official python website](https://www.python.org/downloads/) to get the latest version of Python. If you face any issues, please contact your instructor for help. For the most part, you should be able to click and download the installer for your OS directly from the above page.
+A few points to note while installing Python on your machine
+
+1. If you are on Windows, when you open the installer, you will see a checkbox at the bottom of the menu which should say something like "Add Python 3.9 to PATH". **Select that check box**.
+2. Make sure that once you have installed Python, you follow the instructions in the section below [Post Installation](#post-installation)
 
 Please run the installer and follow the instructions to install Python on your system.
 

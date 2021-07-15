@@ -6,52 +6,22 @@ This area will be used to store all the source code for our Python bootcamp.
 
 Please open source code files and read through them. Source code is added, and sufficiently annotated with comments. All files are runnable out of the box.
 
-## Day 1
+## Introduction
 
-Please look at some source code checked in for Day 1 related items
+Please look at [introductory code](./Introduction/README.md) that we have created for you to learn some basics about Python.
 
-- [Basics](./Day%201/python-sample-0.py)
-- [Input and output](./Day%201/python-sample-1-1.py)
-- [Conditions, loops and functions](./Day%201/python-sample-1-2.py)
-- [Sample programs - physics and math quantities](./Day%201/python-sample-1-3.py)
+Once you are comfortable with some python syntax and what you can do with it, please take a look at the [practice sheet](./Introduction/python-practice-1-1.py).
 
-One you are done with this, please take a look at the [practice sheet](python-practice-1-1.py).
+## Sample Pygame game
 
-## Day 2
+Please find an [example](./Sample_Pygame/README.md) which creates a small dodging game using a popular python gaming module called `pygame`.
 
-Please find the day 2 source code illustrating how a dodging game could look in python using pygame, [here](./Day%202/python-sample-2-1.py).
-I would strongly suggest reading up content on Day 1 and practicing some code. Otherwise a lot of syntax will feel very strange and alien to you.
-Please follow the instructions in the code file. After you have installed `pygame`, you can then run the module as
+## Sample Data Analysis
 
-`python3 ./Day%202/python-sample-2-1.py`. If this fails, run `python ./Day%202/python-sample-2-1.py`
+This deals with a real life use of Python, and currently an extremely popular one - data analysis and visualization.
+You can find all of the code and some data files [here](./Sample_DataAnalysis/README.md).
 
-## Day 3
+## Sample Web Server
 
-Day 3 deals with another real life use of Python, and currently an extremely popular one - data analysis and visualization.
-We have tried to present an example, where we connect to a public remote server, fetch covid data for a month for cities across the globe.
-After this, we explore multiple things - writing this data in a table like format to excel, or manipulating this data in python itself by filtering based on certain values. We then present an example to generate some graphs to show how you could do some form of analysis using python
-as a tool.
-
-You can find all of the code and some data files [here](./Day%203/data-analysis/).
-You need to install some packages for it to work. Namely
-
-1. `matplotlib`
-2. `xlsxwriter`
-3. `requests`
-4. `xlrd`
-5. `pandas`
-6. `numpy`
-
-To quickly install all of these in one go, please run this command.
-
-```bash
-python3 -m pip install pandas matplotlib numpy requests xlsxwriter xlrd
-```
-
-or the following if the above one fails.
-
-```bash
-python -m pip install pandas matplotlib numpy requests xlsxwriter xlrd
-```
-
-To run this, please run the [main.py](./Day%203/data-analysis/main.py) in Python as `python3 main.py`. If this fails, try `python main.py`.
+This deals with another real life use of Python - web servers using `flask`.
+You can find all of the code and some data files [here](./Sample_WebServer/README.md).
